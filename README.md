@@ -32,8 +32,38 @@ The dashboard includes the following key metrics and visualizations:
 *   **Top Performing Products:** A table lists the top-performing products in each region, based on total revenue.
 *   **(Optional) Profit Margin by Region:** A chart displays the profit margin for each region, providing insights into profitability.
 *   **(Optional) Sales Growth Rate:** A chart or KPI card shows the sales growth rate for specific products or regions.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Sales Statistics Dashboard by City
 
-## How to Use/Run (If Applicable)
+This Power BI dashboard visualizes sales performance across different cities, providing insights into regional sales trends, top-performing cities, and areas for potential growth.
+
+## Overview/Purpose
+
+This dashboard aims to answer the following key questions:
+
+*   What are the total sales in each city?
+*   Which cities are contributing the most to overall sales?
+*   How do sales vary across different product categories within each city?
+*   What are the sales trends over time for each city?
+
+By providing clear and actionable insights, this dashboard enables sales managers and business analysts to:
+
+*   Identify high-performing cities and understand the factors driving their success.
+*   Pinpoint underperforming cities and develop strategies for improvement.
+*   Optimize resource allocation and sales efforts based on city-level performance.
+*   Track the effectiveness of marketing campaigns in different cities.
+
+
+## Key Metrics/Visualizations
+
+The dashboard includes the following key metrics and visualizations:
+
+*   **Total Sales by City:** A map visualization highlights the total sales for each city, allowing for quick comparison of city-level performance.
+*   **Sales by Product Category in Each City:** A treemap or stacked bar chart shows the breakdown of sales by product category within each city, revealing which products are driving sales in different markets.
+*   **Sales Trend Over Time (by City):** A line chart displays the sales trend over time for each city, allowing users to identify seasonal patterns and track growth or decline.
+
+-----------------------------------------------------------------------------------------------------------------
+## How to Use/Run 
 
 If you are including the data file:
 
@@ -42,5 +72,4 @@ If you are including the data file:
 3.  Refresh the data connection to point to the location of the data file on your local machine.
 
 If you are *not* including the data:
-
-This dashboard connects to a [describe data source type] data source.  You will need to have access to this data source to refresh the data.
+ You will need to have access to this data source to refresh the data.
